@@ -1,0 +1,72 @@
+@import http://fonts.googleapis.com/css?family=Raleway;
+/*----------------------------------------------
+CSS Settings For HTML Div ExactCenter
+------------------------------------------------*/
+#main {
+width:900px;
+margin:50px auto;
+font-family:Verdana, sans-serif;
+}
+span {
+color:red
+}
+h2 {
+background-color:#FEFFED;
+text-align:center;
+border-radius:10px 10px 0 0;
+margin:-10px -30px;
+padding:15px
+}
+hr {
+border:0;
+border-bottom:1px solid #eee;
+margin:10px -30px;
+margin-bottom:30px
+}
+#login {
+width:300px;
+float:left;
+border-radius:10px;
+font-family:Verdana, sans-serif;
+border:1px solid #eee;
+padding:10px 30px 25px;
+margin-top:70px
+}
+input[type=text],input[type=password] {
+width:100%;
+padding:10px;
+margin-top:6px;
+border:1px solid #eee;
+padding-left:5px;
+font-size:16px;
+font-family:Verdana, sans-serif;
+}
+input[type=submit] {
+width:100%;
+background-color:#FFEBCD;
+color:#0000FF;
+border:3px solid #eee;
+padding:10px;
+font-size:20px;
+cursor:pointer;
+border-radius:5px;
+margin-bottom:15px
+}
+#profile {
+padding:50px;
+border:1px solid red;
+font-size:20px;
+background-color:#FFEBCD
+}
+#logout {
+float:right;
+padding:5px;
+border:solid 1px red
+}
+a {
+text-decoration:none;
+color:#FFEBCD
+}
+i {
+color:#FFEBCD
+}
